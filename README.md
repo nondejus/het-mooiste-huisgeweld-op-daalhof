@@ -1,1 +1,16 @@
-# het-mooiste-alcoholisten-huisgeweld-op-daalhof
+-------------------------------------
+| het-mooiste-huisgeweld-op-daalhof |
+-------------------------------------
+
+
+# alcoholisten
+https://nl.wikipedia.org/wiki/Alcoholisme
+
+# huiselijk geweld
+https://nl.wikipedia.org/wiki/Huiselijk_geweld
+
+# klopboormachine
+https://nl.wikipedia.org/wiki/Klopboormachine
+
+# daalhof
+https://nl.wikipedia.org/wiki/Daalhof
